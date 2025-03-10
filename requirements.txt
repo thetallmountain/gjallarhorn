@@ -1,0 +1,9 @@
+scikit-learn>=1.6.1
+numpy
+matplotlib
+pandas
+scipy
+seaborn
+pyvisa
+paramiko
+scp
