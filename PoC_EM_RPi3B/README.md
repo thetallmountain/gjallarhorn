@@ -32,7 +32,7 @@ This PoC demonstrates:
 
 2. Run the main script:
 python3.11 PoC_EM_RPi3B.py
-Copy
+
 3. The script will:
 - Unzip pre-captured EM data from the device
 - Process the signal data using outlier detection
