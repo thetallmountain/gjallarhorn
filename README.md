@@ -30,10 +30,10 @@ Copy
 1. Clone the repository:
 git clone https://github.com/thetallmountain/gjallarhorn.git
 cd gjallarhorn
-Copy
+
 2. Install the required packages:
 pip install -r requirements.txt
-Copy
+
 ## Usage
 
 ### Proof of Concept Execution
