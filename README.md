@@ -24,7 +24,7 @@ pyvisa
 paramiko
 scp
 s_dbw
-Copy
+
 ## Installation
 
 1. Clone the repository:
@@ -43,11 +43,11 @@ Each PoC directory contains a main script that can be executed to demonstrate EM
 For Raspberry Pi 3B:
 cd PoC_EM_RPi3B
 python3.11 PoC_EM_RPi3B.py
-Copy
+
 For STM32-F429ZI:
 cd PoC_EM_STM32-F429ZI
 python3.11 PoC_EM_STM32-F429ZI.py
-Copy
+
 ### Data Collection and Calibration
 
 The platform-specific directories contain scripts for data collection and calibration:
