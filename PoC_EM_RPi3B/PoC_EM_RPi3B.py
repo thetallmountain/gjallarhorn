@@ -41,7 +41,6 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.decomposition import PCA
 from sklearn.cluster import DBSCAN, HDBSCAN, OPTICS, MeanShift, estimate_bandwidth, AffinityPropagation
 from sklearn.utils.multiclass import unique_labels
-from s_dbw import S_Dbw
 import paramiko
 from scp import SCPClient
 import os.path
